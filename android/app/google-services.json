@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "296214016227",
+    "project_id": "all-you-can-eat-42b69",
+    "storage_bucket": "all-you-can-eat-42b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296214016227:android:c40a278a93d20cc45995d6",
+        "android_client_info": {
+          "package_name": "com.gabing.all_you_can_eat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296214016227-50pqrh095om780kcgd9pogm908um2knb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkIpXj-6OhIWVNCIKVOL0vONWX-L6zyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296214016227-50pqrh095om780kcgd9pogm908um2knb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "296214016227-442irbcovfnfs32m4pod8bl91faarl31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gabing.allYouCanEat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
